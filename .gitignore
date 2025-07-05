@@ -34,6 +34,7 @@ main.py
 .gitignore
 additional
 appendix/
+assignments/
 
 lectures/ofin2025_lecture02_ws.ipynb
 lectures/ofin2025_lecture03_ws.ipynb
@@ -46,8 +47,9 @@ lectures/ofin2025_lecture09_ws.ipynb
 lectures/ofin2025_lecture10_ws.ipynb
 lectures/ofin2025_lecture11_ws.ipynb
 lectures/ofin2025_lecture12_ws.ipynb
+lectures/ofin2025_lecture03_wopython.ipynb
 lectures/ofin2025_lecture05_wopython.ipynb
-
+lectures/ofin2025_lecture08_wopython.ipynb
 
 lectures/ofin2025_lecture01_copy.ipynb
 tutorial_sessions/tutorial_session_initial_1.ipynb
@@ -55,6 +57,18 @@ tutorial_sessions/tutorial_session_1_ws.ipynb
 tutorial_sessions/tutorial_session_2_ws.ipynb
 tutorial_sessions/tutorial_session_2_ws_initial.ipynb
 
+final_exam_ws.ipynb
+final_exam.ipynb
+final_exam_ws.md
+final_exam_ws.docx
+final_exam_one_cell.ipynb
+final_exam_one_cell.md
+final_exam_one_cell.docx
+final_exam_ws_one_cell.ipynb
+final_exam_ws_one_cell.md
+final_exam_ws_one_cell.docx
+final_exam_ws_one_cell.pdf
+~$nal_exam_ws_one_cell.docx
 
 
 # Always ignore Jupyter checkpoints
